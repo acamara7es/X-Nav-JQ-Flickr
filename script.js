@@ -7,7 +7,7 @@ jQuery(document).ready(function() {
 });
 
 function mostrarFotos(tag) {
-    $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?", {
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?", {
             "tags": tag,
             "tagmode": "all",
             "format": "json"
