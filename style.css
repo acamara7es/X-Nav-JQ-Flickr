@@ -1,0 +1,10 @@
+p {
+    margin: 0;
+}
+div {
+    margin: 10px 0;
+}
+.foto{
+	display: inline-block;
+	margin: 10px;
+}
