@@ -13,7 +13,7 @@ Mejora tu programa para que admita que el usuario escriba en una caja la eitquet
 - [Acceso al fichero JSONP con las últimas fotos de Flickr con la etiqueta `fuenlabrada`](http://api.flickr.com/services/feeds/photos_public.gne?tags=fuenlabrada&tagmode=any&format=json&jsoncallback=?)
 
 ## Resultado
-[http://acamara7es.github.io/X-Nav-JQ-Flickr](http://acamara7es.github.io/X-Nav-JQ-Flickr)
+[https://acamara7es.github.io/X-Nav-JQ-Flickr](https://acamara7es.github.io/X-Nav-JQ-Flickr)
 
 ## Comentarios y mejoras
 - Para realizar el ejercicio también es de interés [este enlace](https://www.flickr.com/services/feeds/) que da información sobre los feeds de Flickr y los parámetros que puedes poner en cada petición.
